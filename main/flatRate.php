@@ -1,0 +1,149 @@
+<div class="container">
+    <div style=" padding-bottom:10px;">
+        <div id="accordion">
+            <div class="">
+                <div class="" id="headingOne">
+                    <h5 class="mb-0">
+                        <button class="btn d-block mx-auto text-center border btn-light" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <strong>Fixed rates according to the zones.</strong>
+                        </button>
+                    </h5>
+                    <hr>
+                </div>
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div class="card-body border">
+                        <img src="Images/zoneFareMap.jpg" class="img-fluid" alt="">
+                        <table class="border mt-3 w-100 text-center mx-auto zone">
+                            <tr>
+                                <th>Sr. no</th>
+                                <th>Zone</th> 
+                                <th>Fare</th>
+                            </tr>
+                            <tr>
+                                <td>1</td>
+                                <td>100</td>
+                                <td>$20</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>130</td>
+                                <td>$20</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>210</td>
+                                <td>$22</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>220</td>
+                                <td>$16</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>310</td>
+                                <td>$22</td>
+                            </tr> 
+                            <tr>
+                                <td>6</td>
+                                <td>320</td>
+                                <td>$19</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>330</td>
+                                <td>$16</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>340</td>
+                                <td>$19</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>350</td>
+                                <td>$24</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>360</td>
+                                <td>$23</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>370</td>
+                                <td>$25</td>
+                            </tr>
+                            <tr>
+                                <td>12</td>
+                                <td>380</td>
+                                <td>$12</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>410</td>
+                                <td>$32</td>
+                            </tr>
+                            <tr>
+                                <td>14</td>
+                                <td>420</td>
+                                <td>$32</td>
+                            </tr>
+                            <tr>
+                                <td>15</td>
+                                <td>430</td>
+                                <td>$38</td>
+                            </tr>
+                            <tr>
+                                <td>16</td>
+                                <td>440</td>
+                                <td>$36</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>450</td>
+                                <td>$31</td>
+                            </tr>
+                            <tr>
+                                <td>18</td>
+                                <td>460</td>
+                                <td>$31</td>
+                            </tr>
+                            <tr>
+                                <td>19</td>
+                                <td>510</td>
+                                <td>$40</td>
+                            </tr>
+                            <tr>
+                                <td>20</td>
+                                <td>520</td>
+                                <td>$40</td>
+                            </tr>
+                            <tr>
+                                <td>21</td>
+                                <td>530</td>
+                                <td>$26</td>
+                            </tr>
+                            <tr>
+                                <td>22</td>
+                                <td>540</td>
+                                <td>$40</td>
+                            </tr>
+                            <tr>
+                                <td>23</td>
+                                <td>550</td>
+                                <td>$310</td>
+                            </tr>
+                            <tr>
+                                <td>24</td>
+                                <td>530</td>
+                                <td>$26</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
